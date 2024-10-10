@@ -1,17 +1,17 @@
 # first
 this is a repository
-
+hi
 commit #1
-
+hello
 im in ur walls
+i am here
+
+work?
+yay!
 
 
 
-
-
-
-
-
+will this work (auto)
 
 
 
